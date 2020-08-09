@@ -1,0 +1,195 @@
+# Translations for Turkish
+# https://gohugo.io/content-management/multilingual/#translation-of-strings
+
+# === baseof ==
+[backToTop]
+other = "Başa Dön"
+
+[viewComments]
+other = "Yorumları Görüntüle"
+# === baseof ==
+
+# === Post ===
+[posts]
+other = "Postlar"
+# === Post ===
+
+# === Taxonomy ===
+[allSome]
+other = "Tüm {{ .Some }}"
+
+[tag]
+other = "Etiket"
+
+[tags]
+other = "Etiketler"
+
+[category]
+other = "Kategori"
+
+[categories]
+other = "Kategoriler"
+# === Taxonomy ===
+
+# === Pagination ===
+[more]
+other = "Daha"
+# === Pagination ===
+
+# === partials/header.html ===
+[selectLanguage]
+other = "Dil Seç"
+
+[switchTheme]
+other = "Tema Değiş"
+# === partials/header.html ===
+
+# === partials/footer.html ===
+[poweredBySome]
+other = "{{ .Hugo }} tarafından deskteklenmektedir. | Tema - {{ .Theme }}"
+# === partials/footer.html ===
+
+# === partials/comment.html ===
+[valineLang]
+other = "tr"
+
+[valinePlaceholder]
+other = "Yorumun ..."
+
+[facebookLanguageCode]
+other = "tr_TR"
+# === partials/comment.html ===
+
+# === partials/assets.html ===
+[search]
+other = "Ara"
+
+[searchPlaceholder]
+other = "Başlıklarda veya içeriklerde ara"
+
+[clear]
+other = "Temizle"
+
+[cancel]
+other = "İptal"
+
+[noResultsFound]
+other = "Sonuç bulunamadı."
+
+[lunrLanguageCode]
+other = "tr"
+
+[copyToClipboard]
+other = "Panoya kopyala"
+
+[cookieconsentMessage]
+other = "Bu web sitesi deneyiminizi iyileştirmek için çerezlerinizi kullanmaktadır."
+
+[cookieconsentDismiss]
+other = "Anladım!"
+
+[cookieconsentLink]
+other = "Daha fazla bilgi edinin."
+# === partials/assets.html ===
+
+# === partials/plugin/share.html ===
+[shareOn]
+other = "Paylaş"
+# === partials/plugin/share.html ===
+
+# === posts/single.html ===
+[contents]
+other = "İçindekiler"
+
+[publishedOnDate]
+other = "tarafından {{ .Date }} tarihinde"
+
+[includedInCategories]
+other = "{{ .Categories }} eklenmiştir."
+
+[wordCount]
+one = "Bir kelime"
+other = "{{ .Count }} kelime"
+
+[readingTime]
+one = "Bir dakika"
+other = "{{ .Count }} dakika"
+
+[views]
+other = "görüntüleme"
+
+[author]
+other = "Yazar"
+
+[updatedOnDate]
+other = "Güncellendi {{ .Date }}"
+
+[readMarkdown]
+other = "Markdown Oku"
+
+[back]
+other = "Geri"
+
+[home]
+other = "Ana Sayfa"
+
+[readMore]
+other = "Daha Fazla"
+# === posts/single.html ===
+
+# === 404.html ===
+[pageNotFound]
+other = "Sayfa bulunamadı."
+
+[pageNotFoundText]
+other = "Üzgünüm. Aradığınız sayfa mevcut değil."
+# === 404.html ===
+
+# === shortcodes/admonition.html ===
+[note]
+other = "Not"
+
+[abstract]
+other = "Özet"
+
+[info]
+other = "Bilgi"
+
+[tip]
+other = "İpucu"
+
+[success]
+other = "Sonuç"
+
+[question]
+other = "Soru"
+
+[warning]
+other = "Uyarı"
+
+[failure]
+other = "Hata"
+
+[danger]
+other = "Tehlike"
+
+[bug]
+other = "Bug"
+
+[example]
+other = "Örnek"
+
+[quote]
+other = "Alıntı"
+# === shortcodes/admonition.html ===
+
+# === shortcodes/version.html ===
+[new]
+other = "YENİ"
+
+[changed]
+other = "DEĞİŞTİ"
+
+[deleted]
+other = "SİLİNDİ"
+# === shortcodes/version.html ===
