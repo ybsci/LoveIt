@@ -18,6 +18,7 @@
 
 {{- /* Home SEO */ -}}
 {{- if .IsHome -}}
+    <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
     <script type="application/ld+json">
     {
         "@context": "http://schema.org",
@@ -150,5 +151,4 @@
         "description": {{ .Description | safeHTML }}
     }
     </script>
-    <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 {{- end -}}
